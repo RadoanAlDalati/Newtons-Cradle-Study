@@ -29,12 +29,12 @@
 ## 🛠 الأدوات المستخدمة
 *   **البرمجة:** Java (Data Structures), Python (Logic Programming).
 *   **إدارة النسخ:** Git & GitHub.
-*   **الإنتاجية:** SoftMaker Office 2021 لعمل العروض التقديمية.
+*   **الإنتاجية:** SoftMaker Office 2021    لعمل العروض التقديمية.
 *   **قواعد البيانات:** SQL Server Management Studio (SSMS).
 
 ---
 
-## 🚀 كيفية البدء
+## 🚀 كيفية  البدء 
 1. قم بعمل `Clone` للمستودع:
    ```bash
-   git clone [https://github.com/RadoanAlDalati/Newtons-Cradle-Study.git](https://github.com/RadoanAlDalati/Newtons-Cradle-Study.git)
+   git clone https://github.com/RadoanAlDalati/Newtons-Cradle-Study.git
